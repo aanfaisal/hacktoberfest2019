@@ -9,5 +9,6 @@
 5. [Dion Aditya](https://github.com/dionaditya)
 6. [Ryan Edriansyah Adhi](https://github.com/edriansyahryan88)
 7. [Anggih Nur](https://github.com/anggihnurh)
+8. [Fikri Yusrihan](https://github.com/fikriyusrihan)
 
 ## 2018
