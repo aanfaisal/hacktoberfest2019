@@ -12,5 +12,6 @@
 8. [Fikri Yusrihan](https://github.com/fikriyusrihan)
 9. [Wahidatun Nur Khasanah](https://github.com/ummuhafshah)
 10. [Mhd.Daffa Mufqi](https://github.com/daffamufqi)
+11. [Bachrun](https://github.com/b4chrun)
 
 ## 2018
