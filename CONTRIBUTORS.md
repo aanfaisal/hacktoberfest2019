@@ -4,6 +4,6 @@
 
 1. [Aan Faisal](https://github.com/aanfaisal)
 
-
+2. [Ryan Edriansyah Adhi](https://github.com/edriansyahryan88)
 
 ## 2018
