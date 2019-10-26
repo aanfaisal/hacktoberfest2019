@@ -4,7 +4,8 @@
 
 1. [Aan Faisal](https://github.com/aanfaisal)
 2. [Hatif Muhammad Fawwaz](https://github.com/rainr7)
-
+3. [David Adi Nugroho](https://github.com/lakuapik)
+4. [Mahendra Adhi Prasetiya](https://github.com/Arkea)
 
 
 ## 2018
