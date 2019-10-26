@@ -4,7 +4,7 @@ accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
 
 Website link on which you will contribute
-https://hacktoberfest-semarang.github.io/Hacktoberfest/
+https://aanfaisal.github.io/hacktoberfest2019/
 
 ## Step 1 
 Create a account on Github
@@ -24,7 +24,7 @@ Register yourself for Hacktoberfest.
 
 ## Step 3 
 This is the link of the repository that you guys will be contributing to.
-https://github.com/aanfaisal/Hacktoberfest-2019/
+https://github.com/aanfaisal/hacktoberfest2019/
 
 ![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583176-10b14100-ca70-11e8-9807-8dfa79167216.png)
 
@@ -64,7 +64,7 @@ Add your name in contributors.md file in this format
 
 ## Step 8
 ```bash
-$ git remote add upstream https://github.com/aanfaisal/Hacktoberfest-2019/
+$ git remote add upstream https://github.com/aanfaisal/hacktoberfest2019/
 ```
 
 ![screenshot from 2018-10-07 20-22-03](https://user-images.githubusercontent.com/23727056/46583237-19564700-ca71-11e8-9e33-535294216c92.png)
