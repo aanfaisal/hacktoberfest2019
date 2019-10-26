@@ -11,5 +11,6 @@
 7. [Anggih Nur](https://github.com/anggihnurh)
 8. [Fikri Yusrihan](https://github.com/fikriyusrihan)
 9. [Wahidatun Nur Khasanah](https://github.com/ummuhafshah)
+10. [Mhd.Daffa Mufqi](https://github.com/daffamufqi)
 
 ## 2018
