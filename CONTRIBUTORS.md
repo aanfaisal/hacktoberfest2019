@@ -14,5 +14,6 @@
 10. [Mhd.Daffa Mufqi](https://github.com/daffamufqi)
 11. [Bachrun](https://github.com/b4chrun)
 12. [A. N. Hidayat](https://github.com/dayatstuff)
+13. [Rudi Kurniawan](https://github.com/rudinesia)
 
 ## 2018
