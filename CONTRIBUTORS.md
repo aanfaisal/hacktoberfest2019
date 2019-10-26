@@ -10,5 +10,6 @@
 6. [Ryan Edriansyah Adhi](https://github.com/edriansyahryan88)
 7. [Anggih Nur](https://github.com/anggihnurh)
 8. [Fikri Yusrihan](https://github.com/fikriyusrihan)
+9. [Wahidatun Nur Khasanah](https://github.com/ummuhafshah)
 
 ## 2018
