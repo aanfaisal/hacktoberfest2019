@@ -4,7 +4,7 @@ accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
 
 Website link on which you will contribute
-https://dsc-bvp.github.io/Hacktoberfest/
+https://hacktoberfest-semarang.github.io/Hacktoberfest/
 
 ## Step 1 
 Create a account on Github
@@ -19,14 +19,12 @@ Register yourself for Hacktoberfest.
 
 [https://hacktoberfest.digitalocean.com/register](https://hacktoberfest.digitalocean.com/register)
 
-<!-- ![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png) -->
-
 ![Screenshot (24)](https://user-images.githubusercontent.com/31778302/65990265-e5a5d580-e4a8-11e9-8768-ca63fc4b33d0.png)
 
 
 ## Step 3 
 This is the link of the repository that you guys will be contributing to.
-https://github.com/DSC-BVP/Hacktoberfest/
+https://github.com/aanfaisal/Hacktoberfest-2019/
 
 ![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583176-10b14100-ca70-11e8-9807-8dfa79167216.png)
 
@@ -55,8 +53,6 @@ $ cd Hacktoberfest
 
 ## Step 7 
 Add your name in contributors.md file in this format
-<!-- 
-![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png) -->
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/31778302/66143935-a355d300-e625-11e9-9a5a-0bbeb90d1bb7.png)
 
@@ -64,13 +60,11 @@ Add your name in contributors.md file in this format
 2. Put your personal message 
 3. Put the address of your github link , all in index.html file in the format shown below.
 
-<!-- ![screenshot from 2018-10-07 20-21-36](https://user-images.githubusercontent.com/23727056/46583221-cbd9da00-ca70-11e8-8b99-088b20ea4101.png) -->
-
 ![Screenshot (26)](https://user-images.githubusercontent.com/31778302/66140933-9387c000-e620-11e9-82d4-8afc0a7e0d39.png)
 
 ## Step 8
 ```bash
-$ git remote add upstream https://github.com/DSC-BVP/Hacktoberfest/
+$ git remote add upstream https://github.com/aanfaisal/Hacktoberfest-2019/
 ```
 
 ![screenshot from 2018-10-07 20-22-03](https://user-images.githubusercontent.com/23727056/46583237-19564700-ca71-11e8-9e33-535294216c92.png)
@@ -98,9 +92,7 @@ Now open the repository which you forked in your account and click on the Compar
 
 
 ## Step 11
-Open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
+Open [dsc-bvp.github.io/Hacktoberfest](https://hacktoberfest-semarang.github.io/Hacktoberfest)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
-
-<!-- ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png) -->
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/31778302/66143934-a2bd3c80-e625-11e9-833d-910eff188a71.png)
