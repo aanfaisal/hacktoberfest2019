@@ -6,6 +6,6 @@
 2. [Hatif Muhammad Fawwaz](https://github.com/rainr7)
 3. [David Adi Nugroho](https://github.com/lakuapik)
 4. [Mahendra Adhi Prasetiya](https://github.com/Arkea)
-
+5. [Dion Aditya](https://github.com/dionaditya)
 
 ## 2018
