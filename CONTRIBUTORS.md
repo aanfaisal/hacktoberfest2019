@@ -16,5 +16,6 @@
 12. [A. N. Hidayat](https://github.com/dayatstuff)
 13. [Rubi Cahya](https://github.com/Nurcaa)
 14. [Rudi Kurniawan](https://github.com/rudinesia)
+15. [Anirudh](https://github.com/AnirudhKHaveliya)
 
 ## 2018
