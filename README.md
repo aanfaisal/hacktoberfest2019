@@ -92,7 +92,7 @@ Now open the repository which you forked in your account and click on the Compar
 
 
 ## Step 11
-Open [dsc-bvp.github.io/Hacktoberfest](https://hacktoberfest-semarang.github.io/Hacktoberfest)
+Open [https://aanfaisal.github.io/hacktoberfest2019](https://aanfaisal.github.io/hacktoberfest2019/)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/31778302/66143934-a2bd3c80-e625-11e9-833d-910eff188a71.png)
